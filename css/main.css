@@ -1,0 +1,120 @@
+.contenedor{
+	margin-top: 75px;
+	margin-left: 70px;
+	background-color: skyblue;
+	width: 1200px;
+	height: 500px;
+	position: relative;
+}
+
+.pasto{
+	width: 1200px;
+	height: 80px;
+	background: green;
+	position: absolute;
+	bottom: 0;
+}
+
+.sol{
+	width: 110px;
+	height: 110px;
+	background: yellow;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.casa{
+	width: 400px;
+	height: 250px;
+	background: brown;
+	position: relative;
+	top: 200px;
+	left: 570px;
+}
+
+.puerta{
+	width: 85px;
+	height: 150px;
+	background: gray;
+	position: absolute;
+	bottom: 0;
+	left: 75px;
+}
+
+i{
+	color: #ff5c5c;
+	position: absolute;
+	top: 120px;
+	left: 95px;
+	font-size: 50px;
+
+}
+
+.ventana{
+	width: 75px;
+	height: 75px;
+	background: #ff5c5c;
+	position: absolute;
+	left: 250px;
+	top: 75px;
+}
+
+.techo{
+	border-bottom: 100px solid black;
+	border-left: 60px solid transparent;
+	border-right: 60px solid transparent;
+	height: 0;
+	width: 280px;
+	position: relative;
+	top: -100px;
+}
+
+.chimenea{
+	width: 30px;
+	height: 50px;
+	background: #ff5c5c;
+	position: relative;
+	top: 35px;
+	left: 200px;
+}
+
+.uno{
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	background: #666666;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	left: 220px;
+	top: 0px;
+}
+
+.dos{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: #666666;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	left: 261px;
+	top: -7px;
+}
+
+.tres{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background: gray;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	left: 290px;
+	top: -30px;
+	
+}
